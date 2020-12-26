@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.fisch_aus_steinbachtal">
+    package="com.nf.fisch_aus_steinbachtal">
    <application
-        android:label="fisch_aus_steinbachtal"
+        android:label="Fisch aus Steinbachtal"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

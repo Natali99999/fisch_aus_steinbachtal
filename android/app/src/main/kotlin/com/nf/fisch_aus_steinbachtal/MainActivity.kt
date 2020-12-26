@@ -1,4 +1,4 @@
-package com.example.fisch_aus_steinbachtal
+package com.nf.fisch_aus_steinbachtal
 
 import io.flutter.embedding.android.FlutterActivity
 
