@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1084774171700",
+    "project_id": "fisch-aus-steinbachtal",
+    "storage_bucket": "fisch-aus-steinbachtal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084774171700:android:a873d729c47bc501f47661",
+        "android_client_info": {
+          "package_name": "com.nf.fisch_aus_steinbachtal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084774171700-722eejt347n0i61f8505bnk00s0hnrve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nf.fisch_aus_steinbachtal",
+            "certificate_hash": "c05cc7cccf0d36fabd21932d09ec2ad2602522c1"
+          }
+        },
+        {
+          "client_id": "1084774171700-bson3t0k61enb0u3kihu9tv54b824qju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqkudb1J3FdIDN-WC127aVg-pO-pThHkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084774171700-bson3t0k61enb0u3kihu9tv54b824qju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
